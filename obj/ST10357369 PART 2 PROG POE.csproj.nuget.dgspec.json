@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RC_Student_lab\\source\\repos\\ST10357369 PART 2 PROG POE\\ST10357369 PART 2 PROG POE.csproj": {}
+    "C:\\Users\\RC_Student_lab\\source\\repos\\ST10357369PROG_PART2\\ST10357369 PART 2 PROG POE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RC_Student_lab\\source\\repos\\ST10357369 PART 2 PROG POE\\ST10357369 PART 2 PROG POE.csproj": {
+    "C:\\Users\\RC_Student_lab\\source\\repos\\ST10357369PROG_PART2\\ST10357369 PART 2 PROG POE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RC_Student_lab\\source\\repos\\ST10357369 PART 2 PROG POE\\ST10357369 PART 2 PROG POE.csproj",
+        "projectUniqueName": "C:\\Users\\RC_Student_lab\\source\\repos\\ST10357369PROG_PART2\\ST10357369 PART 2 PROG POE.csproj",
         "projectName": "ST10357369 PART 2 PROG POE",
-        "projectPath": "C:\\Users\\RC_Student_lab\\source\\repos\\ST10357369 PART 2 PROG POE\\ST10357369 PART 2 PROG POE.csproj",
+        "projectPath": "C:\\Users\\RC_Student_lab\\source\\repos\\ST10357369PROG_PART2\\ST10357369 PART 2 PROG POE.csproj",
         "packagesPath": "C:\\Users\\RC_Student_lab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RC_Student_lab\\source\\repos\\ST10357369 PART 2 PROG POE\\obj\\",
+        "outputPath": "C:\\Users\\RC_Student_lab\\source\\repos\\ST10357369PROG_PART2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

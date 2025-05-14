@@ -1,0 +1,14 @@
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\bin\Debug\net8.0\ST10357369 PART 2 PROG POE.exe
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\bin\Debug\net8.0\ST10357369 PART 2 PROG POE.deps.json
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\bin\Debug\net8.0\ST10357369 PART 2 PROG POE.runtimeconfig.json
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\bin\Debug\net8.0\ST10357369 PART 2 PROG POE.dll
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\bin\Debug\net8.0\ST10357369 PART 2 PROG POE.pdb
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\obj\Debug\net8.0\ST10357369 PART 2 PROG POE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\obj\Debug\net8.0\ST10357369 PART 2 PROG POE.AssemblyInfoInputs.cache
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\obj\Debug\net8.0\ST10357369 PART 2 PROG POE.AssemblyInfo.cs
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\obj\Debug\net8.0\ST10357369 PART 2 PROG POE.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\obj\Debug\net8.0\ST10357369 PART 2 PROG POE.dll
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\obj\Debug\net8.0\refint\ST10357369 PART 2 PROG POE.dll
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\obj\Debug\net8.0\ST10357369 PART 2 PROG POE.pdb
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\obj\Debug\net8.0\ST10357369 PART 2 PROG POE.genruntimeconfig.cache
+C:\Users\RC_Student_lab\source\repos\ST10357369 PART 2 PROG POE\obj\Debug\net8.0\ref\ST10357369 PART 2 PROG POE.dll
